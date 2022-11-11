@@ -1,0 +1,13 @@
+installed python 3.10,3.11
+in commandline and in windows powershell
+https://realpython.com/python-virtual-environments-a-primer/
+
+
+
+https://prodi.gy/docs/install
+
+
+python -m pip install prodigy -f https://XXXX-XXXX-XXXX-XXXX@download.prodi.gy
+
+python -m prodigy spans.manual JSONtest5 blank:en "C:\Users\valarmathi.ganessin\Downloads\example.jsonl" --label car,park
+ 
